@@ -12,7 +12,7 @@
 	<artifactId>tacos</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>tacos</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Taco Cloud example</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
