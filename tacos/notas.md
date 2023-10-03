@@ -21,3 +21,6 @@ three annotations:
     classes with annotations like @Component, @Controller, and @Service to have
     Spring automatically discover and register them as components in the Spring
     application context.
+
+---------------------
+SPring mvc -> controllers a class that handles request and responds with some information
